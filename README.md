@@ -1,7 +1,9 @@
 ## `zod` `tf2` `configs`  
-_yes they are weird_  
-_no i will not explain_  
-_no, i also **cant explain**_  
+> _yes they are weird_   
+> _no i will not explain_   
+> _no, i also **cant explain**_    
+  
+💾❌😆💀   
 
 ---  
 
