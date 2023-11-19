@@ -19,7 +19,7 @@ TF2 custom configuration files which set graphic & functional configurations for
 
 **GENERAL/PERFORMANCE**    
 I also use [mastercomfig](https://mastercomfig.com) as it is excellent. Essentially if you are still playing this game, and you're _not_ using mastercomfig... how does your game even work? 
-Thank you very much [`@mcoms`](https://github.com/mcoms) for the extensive work you do that makes the experiences of normal players much, much, much easier. 
+Thank you very much [`@mcoms`](https://github.com/mastercoms) for the extensive work you do that makes the experiences of normal players much, much, much easier. 
 
 **HUD**  
 For huds I use the [TF2 Hud Editor](https://criticalflaw.ca/TF2HUD.Editor/) by [`@criticalflaw`](https://github.com/criticalflaw) -- the creator of a ton of everyone's favorite huds as well as just a very helpful member of the community. I haven't met you sir, but I would love to, and I hope you're doing well. Your huds and now this excellent tool are very useful. Thank you! 
