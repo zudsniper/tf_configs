@@ -3,13 +3,17 @@
 > _no i will not explain_   
 > _no, i also **cant explain**_    
   
+<div align="center">
+
 ![zod.tf logo](https://i.imgur.com/cw3A8u0.gif)   
 
----  
+</div>  
 
-### SUMMARY
+## SUMMARY
 
 TF2 custom configuration files which set graphic & functional configurations for the _peculiar_ way that I specifically like to play this game.  
+
+---
 
 ### TOOLS & CONFIGS
 
